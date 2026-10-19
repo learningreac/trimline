@@ -1,0 +1,72 @@
+{
+ "name": "trimline",
+ "version": "1.1.0",
+ "built": "2026-10-19T21:33:55.177Z",
+ "files": [
+  {
+   "path": "app\\main.js",
+   "bytes": 640559,
+   "sha256": "3049c3f7337f277a7a58ae1d8d1c24abf8d5e7d2e444851fc8655336cd0a804d"
+  },
+  {
+   "path": "css\\app.css",
+   "bytes": 27525,
+   "sha256": "ef0e6837c8b71c34d00613fdaeb233069d2f3379f49f21ad7f08349856c2e96e"
+  },
+  {
+   "path": "index.html",
+   "bytes": 8920,
+   "sha256": "e5606686fe509c97ef934ecab734404c8937326d7f711093cca3864567c1717a"
+  },
+  {
+   "path": "LICENSES.txt",
+   "bytes": 2243,
+   "sha256": "f6df95992728940e694aae09339fce13c22e6754f7fb5ac219f55017a4f872a6"
+  },
+  {
+   "path": "README.txt",
+   "bytes": 983,
+   "sha256": "79a471fa011a62ace21bdc35516bbd1b313a2369fe4619374bf56db095f8220d"
+  },
+  {
+   "path": "samples\\beam-engine.igs",
+   "bytes": 4339932,
+   "sha256": "40b8349dc12ffb0d87f1efd7a8ec5f859514f30c6373ebb2257af324ecc3eaa6"
+  },
+  {
+   "path": "samples\\boltsbody.step",
+   "bytes": 1360489,
+   "sha256": "56f33fc871a1663ec54258a262be731fcce14f00813125ec3f71e7aa16150256"
+  },
+  {
+   "path": "samples\\periodic.step",
+   "bytes": 177141,
+   "sha256": "88710d5a5f852f182c329422718b63cea7992997e4e1ce91a19a9d144f87141b"
+  },
+  {
+   "path": "samples\\rotor-assembly.step",
+   "bytes": 6947174,
+   "sha256": "b5c4f9c0676f675b32ea425e5bc624c01296d9ef26e939eb87cd335ac81866ed"
+  },
+  {
+   "path": "samples\\truck-chassis-assembly.step",
+   "bytes": 3909222,
+   "sha256": "870889efc43ae1cd501e3b8d03bc923fe06f587fca961321073f592e3bed940a"
+  },
+  {
+   "path": "worker\\coordinator.worker.js",
+   "bytes": 20540,
+   "sha256": "55914107383ad8ca16c4df04263af40751aacdde8f520bc8592fdfc689be0253"
+  },
+  {
+   "path": "worker\\tess.worker.js",
+   "bytes": 7906,
+   "sha256": "8786f62e3f5d34c21477b498f53889db68febc7eda8b10464fd0965f79656d29"
+  },
+  {
+   "path": "worker\\trimline-core.wasm",
+   "bytes": 1077509,
+   "sha256": "42e2304da4146ffb520b12e19ad8da4d9c597ad25e33f1bb8951b7c014237e00"
+  }
+ ]
+}
