@@ -1,12 +1,12 @@
 {
  "name": "trimline",
  "version": "1.1.0",
- "built": "2026-10-19T21:33:55.177Z",
+ "built": "2026-10-20T04:23:57.724Z",
  "files": [
   {
    "path": "app\\main.js",
-   "bytes": 640559,
-   "sha256": "3049c3f7337f277a7a58ae1d8d1c24abf8d5e7d2e444851fc8655336cd0a804d"
+   "bytes": 642372,
+   "sha256": "7adf375a1c3e05819701ae2f0c4609379fe3559e779597e3bb2c5efaf81e7d8f"
   },
   {
    "path": "css\\app.css",
@@ -15,8 +15,8 @@
   },
   {
    "path": "index.html",
-   "bytes": 8920,
-   "sha256": "e5606686fe509c97ef934ecab734404c8937326d7f711093cca3864567c1717a"
+   "bytes": 9158,
+   "sha256": "8f346ea50c06f82de63913aedff3da84cc27f524f9b62a1533a17d0d46d3153c"
   },
   {
    "path": "LICENSES.txt",
@@ -25,8 +25,8 @@
   },
   {
    "path": "README.txt",
-   "bytes": 983,
-   "sha256": "79a471fa011a62ace21bdc35516bbd1b313a2369fe4619374bf56db095f8220d"
+   "bytes": 1065,
+   "sha256": "da50b50ca4fdf4a172886bc2e424827229e78a41f02c2945b44dc131385e6639"
   },
   {
    "path": "samples\\beam-engine.igs",

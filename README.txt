@@ -8,6 +8,7 @@ Server notes
 - .wasm should be served as application/wasm (faster streaming compile; it works either way).
 - No special headers (COOP/COEP) are required.
 - Uploaded models are kept in the browser (IndexedDB) per origin when "Keep uploads" is on.
+- index.html loads Google Analytics (G-QX9JEDQHC5) from www.googletagmanager.com.
 
 Files
   index.html, css/app.css            page
